@@ -6,5 +6,4 @@ Full stack
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm currently learning AI
-*🖼️ Frontend
-*⚙️ Backend
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
