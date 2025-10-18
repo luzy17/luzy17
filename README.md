@@ -6,3 +6,5 @@ Full stack
 
 * 🌍  I'm based in Thailand
 * 🧠  I'm currently learning AI
+🖼️ Frontend
+⚙️ Backend
